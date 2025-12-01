@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac4b4959-4381-4c17-96a0-f8c051783529" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="C:\colasa\Maven\Maven 3.9.11\apache-maven-3.9.11" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="C:\colasa\Maven\Maven 3.9.11\apache-maven-3.9.11\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="35xs6gguSJ8g5vMoiLMNmbd4x6G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/colasa/Java project/project 08 (JDK 8 New Features)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.23448277",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Demo01.executor": "Run",
+    "应用程序.Demo02.executor": "Run",
+    "应用程序.Demo03 (1).executor": "Run",
+    "应用程序.Demo03.executor": "Run",
+    "应用程序.Demo04.executor": "Run",
+    "应用程序.Demo05.executor": "Run",
+    "应用程序.Demo06.executor": "Run",
+    "应用程序.Demo07.executor": "Run",
+    "应用程序.Demo08.executor": "Run",
+    "应用程序.Demo09.executor": "Run",
+    "应用程序.Demo1 (1).executor": "Run",
+    "应用程序.Demo1 (2).executor": "Run",
+    "应用程序.Demo1.executor": "Run",
+    "应用程序.Demo10.executor": "Run",
+    "应用程序.Demo11.executor": "Run",
+    "应用程序.Demo12.executor": "Run",
+    "应用程序.Demo13.executor": "Run",
+    "应用程序.Demo2.executor": "Run",
+    "应用程序.Demo3 (1).executor": "Run",
+    "应用程序.Demo3 (2).executor": "Run",
+    "应用程序.Demo3 (3).executor": "Run",
+    "应用程序.Demo3 (4).executor": "Run",
+    "应用程序.Demo3 (5).executor": "Run",
+    "应用程序.Demo3.executor": "Run",
+    "应用程序.Demo4.executor": "Run",
+    "应用程序.Demo5.executor": "Run",
+    "应用程序.Demo6.executor": "Run",
+    "应用程序.Demo7.executor": "Run",
+    "应用程序.Demo8.executor": "Run",
+    "应用程序.Demo9 (1).executor": "Run",
+    "应用程序.Demo9 (2).executor": "Run",
+    "应用程序.Demo9.executor": "Run"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ac4b4959-4381-4c17-96a0-f8c051783529" name="更改" comment="" />
+      <created>1764062883576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764062883576</updated>
+      <workItem from="1764062884977" duration="27081000" />
+      <workItem from="1764152614903" duration="11707000" />
+      <workItem from="1764165019748" duration="2138000" />
+      <workItem from="1764299813764" duration="782000" />
+      <workItem from="1764300657204" duration="44000" />
+      <workItem from="1764462222197" duration="33000" />
+      <workItem from="1764462296178" duration="8000" />
+      <workItem from="1764539450277" duration="1208000" />
+      <workItem from="1764541235606" duration="55000" />
+      <workItem from="1764541292840" duration="4000" />
+      <workItem from="1764541299480" duration="141000" />
+      <workItem from="1764541543172" duration="14000" />
+      <workItem from="1764542064818" duration="22000" />
+      <workItem from="1764542173896" duration="6000" />
+      <workItem from="1764546097491" duration="30000" />
+      <workItem from="1764546830370" duration="21000" />
+      <workItem from="1764546981513" duration="3000" />
+      <workItem from="1764572463682" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
