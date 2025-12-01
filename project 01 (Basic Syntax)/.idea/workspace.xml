@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da9a9df8-0cf1-482b-83eb-22391edc700b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="348Uz5n2nPPjhTcMJAezU2VyeBG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/colasa/Java project/project 01 (Basic Syntax)&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/colasa/Java 项目/myfirstjava/myfirstjava/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15527344&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.23448277&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Demo01.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.Demo02.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Demo03.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Demo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da9a9df8-0cf1-482b-83eb-22391edc700b" name="Changes" comment="" />
+      <created>1760594952229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760594952229</updated>
+      <workItem from="1764379630152" duration="9000" />
+      <workItem from="1764379677802" duration="20000" />
+      <workItem from="1764380378905" duration="599000" />
+      <workItem from="1764446697832" duration="50000" />
+      <workItem from="1764446813582" duration="93000" />
+      <workItem from="1764465036183" duration="363000" />
+      <workItem from="1764465880638" duration="22000" />
+      <workItem from="1764465933821" duration="393000" />
+      <workItem from="1764466332365" duration="83000" />
+      <workItem from="1764466466794" duration="490000" />
+      <workItem from="1764467195628" duration="247000" />
+      <workItem from="1764467725331" duration="33000" />
+      <workItem from="1764470516512" duration="6000" />
+      <workItem from="1764470533075" duration="3000" />
+      <workItem from="1764470555467" duration="7000" />
+      <workItem from="1764470950172" duration="5000" />
+      <workItem from="1764471070716" duration="55000" />
+      <workItem from="1764471148871" duration="101000" />
+      <workItem from="1764471252548" duration="2000" />
+      <workItem from="1764471266251" duration="6000" />
+      <workItem from="1764471356095" duration="23000" />
+      <workItem from="1764471441941" duration="36000" />
+      <workItem from="1764537539619" duration="3000" />
+      <workItem from="1764538147102" duration="12000" />
+      <workItem from="1764538607269" duration="2000" />
+      <workItem from="1764538833354" duration="87000" />
+      <workItem from="1764542236892" duration="55000" />
+      <workItem from="1764545006487" duration="3000" />
+      <workItem from="1764545103989" duration="44000" />
+      <workItem from="1764545201656" duration="42000" />
+      <workItem from="1764545289164" duration="2000" />
+      <workItem from="1764545406259" duration="3000" />
+      <workItem from="1764545612935" duration="14000" />
+      <workItem from="1764545828787" duration="2000" />
+      <workItem from="1764546313443" duration="8000" />
+      <workItem from="1764546912163" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Demo01.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Demo03.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
