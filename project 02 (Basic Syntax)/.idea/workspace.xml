@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cc92e61-adc8-4154-9e63-040f1acb5620" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="34BS1BGbVPl9Scfp9rxsdX4aDZn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/colasa/Java project/project 02 (Basic Syntax)&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/colasa/Java 项目/ObjectProject01/ObjectProject01/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.23448277&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.ArrayListSample.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Customer.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CustomerService.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Dog.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Hulk.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Mark1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Mark85.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MenthodSample.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MenthodSample01.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MobileNumber.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MobileNumberTestor.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MulChart.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.PackageSample01.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.PackageSample03.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.PackageSample04.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.com.imooc.project.sample5.Customer.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.com.imooc.project.sample5.system.CustomerService.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.com.imooc.project.sample6.ArrayListSample.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\colasa\Github local repository\Java-study\project-02\src\com\imooc\chinese_zodiac" />
+      <recent name="C:\colasa\Github local repository\Java-study\project-02\src\com\imooc\language_interface" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1cc92e61-adc8-4154-9e63-040f1acb5620" name="更改" comment="" />
+      <created>1760685261232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760685261232</updated>
+      <workItem from="1762730445313" duration="34000" />
+      <workItem from="1764176948589" duration="9000" />
+      <workItem from="1764198992591" duration="3000" />
+      <workItem from="1764199088361" duration="2011000" />
+      <workItem from="1764201323268" duration="107000" />
+      <workItem from="1764208563069" duration="232000" />
+      <workItem from="1764208832629" duration="30000" />
+      <workItem from="1764254400460" duration="207000" />
+      <workItem from="1764257439182" duration="390000" />
+      <workItem from="1764258142073" duration="1000" />
+      <workItem from="1764258460107" duration="13000" />
+      <workItem from="1764261040870" duration="95000" />
+      <workItem from="1764262500918" duration="40000" />
+      <workItem from="1764385795872" duration="881000" />
+      <workItem from="1764386696166" duration="380000" />
+      <workItem from="1764387140620" duration="555000" />
+      <workItem from="1764387733425" duration="29000" />
+      <workItem from="1764387785960" duration="461000" />
+      <workItem from="1764388261358" duration="216000" />
+      <workItem from="1764447051498" duration="199000" />
+      <workItem from="1764447267462" duration="896000" />
+      <workItem from="1764448220270" duration="475000" />
+      <workItem from="1764466427177" duration="35000" />
+      <workItem from="1764467459540" duration="261000" />
+      <workItem from="1764467869220" duration="9000" />
+      <workItem from="1764467881365" duration="51000" />
+      <workItem from="1764467935051" duration="85000" />
+      <workItem from="1764470407933" duration="35000" />
+      <workItem from="1764470539424" duration="14000" />
+      <workItem from="1764470957980" duration="4000" />
+      <workItem from="1764471275046" duration="77000" />
+      <workItem from="1764471384891" duration="5000" />
+      <workItem from="1764471431788" duration="5000" />
+      <workItem from="1764537530364" duration="7000" />
+      <workItem from="1764538135907" duration="4000" />
+      <workItem from="1764538601069" duration="4000" />
+      <workItem from="1764538924294" duration="18000" />
+      <workItem from="1764545155082" duration="37000" />
+      <workItem from="1764545245804" duration="13000" />
+      <workItem from="1764545293085" duration="1000" />
+      <workItem from="1764545412117" duration="2000" />
+      <workItem from="1764545630224" duration="10000" />
+      <workItem from="1764545832877" duration="2000" />
+      <workItem from="1764546325756" duration="10000" />
+      <workItem from="1764546917665" duration="3000" />
+      <workItem from="1764572362718" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
